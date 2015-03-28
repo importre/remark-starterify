@@ -10,3 +10,4 @@ slide = remark.create
   sourceUrl         : 'slide.md'
   highlightStyle    : 'monokai'
   highlightLanguage : 'remark'
+  ratio             : '16:9'
